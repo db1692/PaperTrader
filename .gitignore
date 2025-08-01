@@ -33,3 +33,7 @@ Release/
 # Temporary files
 *.tmp
 *.temp
+
+#CLion stuff
+.idea/
+cmake-build-*/
